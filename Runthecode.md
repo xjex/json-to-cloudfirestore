@@ -1,3 +1,3 @@
-npm install 
-npm jsontofire.js
+#npm install 
+#npm jsontofire.js
 
